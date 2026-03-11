@@ -2,8 +2,8 @@
 word2vec on Nympy
 
 
-`code\n
+```code\n
 this is code
 too code
-`
+```
 
